@@ -1,0 +1,28 @@
+.hide{
+    display: none;
+}
+
+#btn{
+    display: block;
+    font-family: fantasy;
+    font-size: medium;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-radius: 25%;
+    border-style: none;
+    width: 120px;
+    background-color: rgb(110, 110, 206);
+    color: white;
+}
+input{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid rgb(82, 80, 80);
+    margin-top: 20px;
+}
+
+.message{
+    text-align: center;
+    margin-top: 40px;
+
+}
